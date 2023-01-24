@@ -84,5 +84,13 @@ color: #FFFFFF;
     color: #E7E7E7;
     
 }
+.type_Heading{
+    font-family: 'EB Garamond';
+    font-weight: 800;
+    font-size: 40px;
+    color: #414040;
+    gap: 24px;
+    
+}
 
 
