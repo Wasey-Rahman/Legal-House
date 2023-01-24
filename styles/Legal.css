@@ -9,7 +9,7 @@ font-weight: 800;
 font-size: 40px;
 color: #414040;
 gap: 24px;
-margin-top: 200px;
+
 
 }
 .Para{
@@ -33,7 +33,7 @@ gap: 64px;
     font-size: 40px;
     color: #414040;
     gap: 24px;
-    margin-top: 200px;
+    
 }
 .client_Description{
 font-family: 'Poppins';
@@ -50,7 +50,7 @@ gap: 64px;
     font-size: 40px;
     color: #414040;
     gap: 24px;
-    margin-top: 200px;
+    
 }
 .Question_Description {
 font-family: 'Poppins';
@@ -61,10 +61,28 @@ gap: 64px;
 }
 .table{
     background-color: #111;
-    margin-top: 200px;
+   
 }
 .tabled{
     color: #fff;
+}
+.form-control{
+    margin-left: 450px;
+}
+.card-title{
+font-family: 'EB Garamond';
+font-weight: 800;
+font-size: 72px;
+color: #FFFFFF;
+
+
+}
+.card-text{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #E7E7E7;
+    
 }
 
 
